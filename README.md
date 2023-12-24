@@ -10,4 +10,5 @@ This is a reference repository which contains links to all the repositories that
 
 ## Repositories
 
-- [P5 JS - Boids Simulation](htttps://github.com/ghostscypher/boids_simulation)
+- [P5 JS - Boids Simulation](https://github.com/ghostscypher/boids_simulation)
+- [P5 JS - Quadtree](https://github.com/ghostscypher/quadtree)
