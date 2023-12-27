@@ -1,6 +1,7 @@
 # Introduction
 
 This is a reference repository which contains links to all the repositories that I have created for the purpose of learning and practicing P5 JS.
+This projects also enables me to learn and visualize some interesting algorithms and data structures. Below is a link to all the related repos for this project.
 
 ## Table of Contents
 
