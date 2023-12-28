@@ -18,3 +18,5 @@ This projects also enables me to learn and visualize some interesting algorithms
 - [p5 JS - A* Pathfinding](https://github.com/ghostscypher/a_star)
 - [p5 JS - Dijkstra's Pathfinding](https://github.com/ghostscypher/dijkstra)
 - [p5 JS - Collatz Conjecture](https://github.com/ghostscypher/collatz_conjecture)
+- [p5 JS - Mandelbrot Set](https://github.com/ghostscypher/mandelbrot_set)
+- [p5 JS - Julia Set](https://github.com/ghostscypher/julia_set)
