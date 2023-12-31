@@ -20,4 +20,4 @@ This projects also enables me to learn and visualize some interesting algorithms
 - [p5 JS - Collatz Conjecture](https://github.com/ghostscypher/collatz_conjecture)
 - [p5 JS - Mandelbrot Set](https://github.com/ghostscypher/mandelbrot_set)
 - [p5 JS - Julia Set](https://github.com/ghostscypher/julia_set)
-- [p5 JS - Metaballs](https://github.com/ghostscypher/metaballs)
+- [p5 JS - Metaballs implemented using marching squares](https://github.com/ghostscypher/marching_squares)
