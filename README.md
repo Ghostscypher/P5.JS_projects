@@ -22,3 +22,5 @@ This projects also enables me to learn and visualize some interesting algorithms
 9. [p5 JS - Julia Set](https://github.com/ghostscypher/julia_set)
 10. [p5 JS - Metaballs implemented using marching squares](https://github.com/ghostscypher/marching_squares)
 11. [p5 JS - Fractal Trees](https://github.com/ghostscypher/fractal_trees)
+12. [p5 JS - Travelling Salesman Problem](https://github.com/ghostscypher/travelling_salesman)
+13. [p5 JS - Pendulum Simulation](https://github.com/ghostscypher/pendulum_simulation)
