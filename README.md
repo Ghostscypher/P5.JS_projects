@@ -24,3 +24,4 @@ This projects also enables me to learn and visualize some interesting algorithms
 11. [p5 JS - Fractal Trees](https://github.com/ghostscypher/fractal_trees)
 12. [p5 JS - Travelling Salesman Problem](https://github.com/ghostscypher/travelling_salesman)
 13. [p5 JS - Pendulum Simulation](https://github.com/ghostscypher/pendulum_simulation)
+14. [p5 JS - 3 Body Problem](https://github.com/ghostscypher/3_body_problem)
